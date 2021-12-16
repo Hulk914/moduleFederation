@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+
+  li {
+      margin: 2rem;
+      font-size: 3rem;
+      text-decoration: underline;
+      cursor: pointer;
+  }
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
